@@ -1,4 +1,5 @@
 ## 欢迎来到我的博客！
+学技术的，没个博客怎么行呢~
 
 You can use the [editor on GitHub](https://github.com/huang-zan/zan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
